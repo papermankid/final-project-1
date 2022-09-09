@@ -23,16 +23,16 @@ Fork this repo, then clone it to your computer. Edit the README.md file by addin
 
 ### What My Site Will Be About ###
 1. If your website was a story, who would it be about?
-    - ??
+    - This site will be about you the people who will be using the website. This is pretty much a theraputic site where everyone can find FREE advice and resources for your needs.
 2. Summarize in one sentence what you want to tell the world through your website?
-    - ??
+    - You will feel 100x better mentally just by clicking on this website.
 3. What should the title of your website be?
-    - ??
+    - nottherapy(.com)
 4. What three adjectives would people use to best describe the personality of the subject of your website? An adjective is a descriptive word, like “fun” or “adventurous”. This link has more examples: Common Adjectives
-    - ??
-    - ??
-    - ??
+    - Calmming
+    - uplifted
+    - positive
 5. Do you want your readers to be able to contact you?
-    - ??
+    - Yes, this is a site where everyone should express anything to me and feel comfortable
     - IF “YES”, in what ways would you like them to contact you?
-        -  ??
+        -  Email first on how they prefer contact.
